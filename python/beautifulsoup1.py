@@ -30,7 +30,7 @@ for element in elements:
     image_url='http://books.toscrape.com/'+image
     book_image.append(image_url)
     print (count,end='')
-    count=count+1
+    count=count+1-1
 
     
 
